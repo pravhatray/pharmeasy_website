@@ -1,5 +1,5 @@
 # Project_Pharmeasy_clone
-This is a group project for unit 2 construct week
+Pharmeasy website, which offers medicines and health products across various categories through its retail partners which are spread across the country. The tech stack used are HTML, CSS and JavaScript.
 
 ## Features
 - Login/signup
